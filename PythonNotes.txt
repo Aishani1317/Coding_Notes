@@ -74,6 +74,10 @@ Attributes- data associated with variables, store information #Ex .dtypes contai
 
 - can use .value_counts() on numerical columns
 - use .describe() for statistical info (count, mean, std, 25/50/75%, max) EX. repair['product_age'].describe()
+-----
+- Line Break in Python: https://stackoverflow.com/questions/53162/how-can-i-do-a-line-break-line-continuation-in-python-split-up-a-long-line-of
+- Check integer: https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not
+- Split string into multiple words: https://stackoverflow.com/questions/743806/how-do-i-split-a-string-into-a-list-of-words
 
 Physics Python Resources: 
 
