@@ -1,6 +1,6 @@
 # Python_Notes
 
-Coding Resources: 
+Python Coding Resources: 
 
 - w3Schools: https://www.w3schools.com/python/python_lists_add.asp
 
@@ -16,3 +16,9 @@ Coding Resources:
 Physics Python Resources
 
 - Vpython/Glowscript  https://www.glowscript.org/docs/VPythonDocs/mathfunct.html
+
+
+Git Resources:
+- Git: https://git-scm.com/docs
+- Git/GitHub Set-Up: https://www.codecademy.com/article/f1-u3-git-setup
+- Learn Branching: https://learngitbranching.js.org/
