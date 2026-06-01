@@ -22,3 +22,7 @@ Git Resources:
 - Git: https://git-scm.com/docs
 - Git/GitHub Set-Up: https://www.codecademy.com/article/f1-u3-git-setup
 - Learn Branching: https://learngitbranching.js.org/
+
+
+Other:
+- Missing Semester/MIT Opencoursehttps://missing.csail.mit.edu/
